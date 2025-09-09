@@ -31,9 +31,7 @@ html, body {
 .brand { display: flex; gap: 16px; align-items: center; }
 .logo-img { width: 110px; height: 80px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); }
 h1 {
-  font-size: 28px; font-weight: 700; letter-spacing: -0.5px;
-  background: linear-gradient(135deg, #ffffff, #f0f0ff);
-}
+  font-size: 28px; font-weight: 700; letter-spacing: -0.5px}
 .actions { display: flex; gap: 12px; }
 
 /* Container */
@@ -54,9 +52,7 @@ h1 {
 .hero { padding: 48px; min-height: 780px; display: flex; flex-direction: column; justify-content: space-between; }
 .hero-content { flex: 1; }
 .hero-title {
-  font-size: 42px; font-weight: 800; margin-bottom: 12px;
-  background: linear-gradient(135deg, #ffffff, #ffd6ff);
-}
+  font-size: 42px; font-weight: 800; margin-bottom: 12px}
 .hero-subtitle { font-size: 18px; color: rgba(255,255,255,0.9); margin-bottom: 36px; line-height: 1.6; }
 
 /* Search Input */
